@@ -1,8 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
-
+it creates a .git folder to keep track of the changes. To create versions and keep logs of the changes done in different commits.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
+Staging area is an intermediate section that keeps the files and the changes in it before moving it to final commit. If offers more flexibility by offering the choice to add selective files in it that would be a part of one logical commit.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
@@ -16,4 +16,3 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
-
